@@ -1,0 +1,22 @@
+.elementor-67 .elementor-element.elementor-element-ff75b30{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--align-items:stretch;--background-transition:0.3s;}.elementor-67 .elementor-element.elementor-element-0f3ea64 img{width:100%;opacity:0.94;}.elementor-67 .elementor-element.elementor-element-0f3ea64 .widget-image-caption{text-align:left;color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:70px;font-weight:800;line-height:1px;letter-spacing:2px;word-spacing:0px;margin-top:0px;}.elementor-67 .elementor-element.elementor-element-0f3ea64{width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-67 .elementor-element.elementor-element-0f3ea64.elementor-element{--align-self:stretch;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-item{border-width:0px;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-item .elementor-tab-content{border-width:0px;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-item .elementor-tab-title.elementor-active{border-width:0px;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-icon, .elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-title{color:#FFFFFF;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-icon svg{fill:#FFFFFF;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-active .elementor-accordion-icon, .elementor-67 .elementor-element.elementor-element-b7014dc .elementor-active .elementor-accordion-title{color:#FFFFFF;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-active .elementor-accordion-icon svg{fill:#FFFFFF;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-accordion-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-67 .elementor-element.elementor-element-b7014dc .elementor-tab-content{color:#AEAEAE;}.elementor-67 .elementor-element.elementor-element-b7014dc > .elementor-widget-container{margin:0px 120px 0px 120px;padding:0px 0px 0px 0px;border-style:solid;border-color:#FFFFFF;border-radius:20px 20px 20px 20px;}.elementor-67 .elementor-element.elementor-element-b7014dc.elementor-element{--align-self:center;--flex-grow:0;--flex-shrink:0;}.elementor-67 .elementor-element.elementor-element-b7014dc{z-index:0;}@media(max-width:767px){.elementor-67 .elementor-element.elementor-element-0f3ea64 .widget-image-caption{font-size:50px;}.elementor-67 .elementor-element.elementor-element-b7014dc > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}}/* Start custom CSS for image, class: .elementor-element-0f3ea64 */.elementor-67 .elementor-element.elementor-element-0f3ea64 figcaption
+{
+    position: absolute;
+    padding-left: 9rem;
+margin: 0;
+top: 50%;
+transform: translateY(-50%);
+}
+
+@media only screen and (max-width: 768px) {
+    .elementor-67 .elementor-element.elementor-element-0f3ea64 figcaption {
+        padding-left: 4rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .elementor-67 .elementor-element.elementor-element-0f3ea64 figcaption {
+        padding-top: 1rem;
+        padding-left: 6rem;
+    }
+}/* End custom CSS */
+/* Start custom CSS for accordion, class: .elementor-element-b7014dc */.elementor-67 .elementor-element.elementor-element-b7014dc/* End custom CSS */
